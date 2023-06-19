@@ -1,0 +1,32 @@
+node_modules/
+dist/
+coverage/
+
+# Files
+.env
+.env.*
+*.log
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# Dependencies (can be customized based on your setup)
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+
+# Generated files
+build/
+tmp/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Miscellaneous
+*.swp
