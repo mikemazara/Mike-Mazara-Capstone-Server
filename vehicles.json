@@ -1,0 +1,88 @@
+{
+    "makes": [
+    {
+    "name": "Acura",
+    "models": ["ILX", "MDX", "RDX", "TLX", "RLX", "NSX", "RLX Sport Hybrid"]
+    },
+    {
+    "name": "Audi",
+    "models": ["A4", "A6", "Q5", "Q7", "TT", "A5", "A7", "Q3", "Q8", "A8"]
+    },
+    {
+    "name": "BMW",
+    "models": ["3 Series", "5 Series", "X3", "X5", "7 Series"]
+    },
+    {
+    "name": "Chevrolet",
+    "models": ["Camaro", "Equinox", "Malibu", "Silverado", "Tahoe", "Traverse", "Blazer", "Colorado", "Suburban", "Aveo"]
+    },
+    {
+    "name": "Chrysler",
+    "models": ["300", "Pacifica", "Voyager", "Pacifica Hybrid", "Voyager L", "Town and Country", "Aspen", "PT Cruiser", "Sebring", "Crossfire"]
+    },
+    {
+    "name": "Ford",
+    "models": ["Escape", "Explorer", "F-150", "Focus", "Mustang", "F-250", "F-350", "Fiesta", "Fusion", "Ranger", "Edge", "Expedition", "EcoSport", "Flex", "Transit Connect", "Taurus", "Bronco", "Excursion", "F-450", "F-550", "F-650", "F-750", "Fusion Hybrid", "Fusion Energi", "Fusion Plug-in Hybrid", "Mustang Mach-E", "Mustang Shelby GT500"] 
+    },
+    {
+    "name": "GMC",
+    "models": ["Sierra", "Terrain", "Acadia", "Yukon", "Canyon", "Savana", "Savana Cargo Van", "Savana Passenger", "Sierra 1500", "Sierra 2500HD", "Sierra 3500HD", "Sierra 3500HD CC", "Sierra 4500HD", "Sierra 4500HD CC", "Sierra 5500HD", "Sierra 5500HD CC", "Sierra 6500HD", "Sierra 6500HD CC"]
+    },
+    {
+    "name": "Honda",
+    "models": ["Accord", "Civic", "CR-V", "Pilot", "Odyssey", "Passport", "Ridgeline", "Fit", "HR-V", "Accord Hybrid", "CR-V Hybrid", "Insight"]
+    },
+    {
+    "name": "Hyundai",
+    "models": ["Elantra", "Sonata", "Tucson", "Santa Fe", "Kona"]
+    },
+    {
+    "name": "Jeep",
+    "models": ["Cherokee", "Grand Cherokee", "Wrangler", "Compass", "Renegade", "Gladiator", "Wrangler Unlimited", "Grand Cherokee SRT", "Grand Cherokee Trackhawk", "Grand Cherokee L"]
+    },
+    {
+    "name": "Kia",
+    "models": ["Optima", "Sorento", "Sportage", "Soul", "Telluride"]
+    },
+    {
+    "name": "Land Rover",
+    "models": ["Defender", "Discovery", "Evoque", "Range Rover", "Velar"]
+    },
+    {
+    "name": "Lexus",
+    "models": ["ES", "GX", "LS", "NX", "RX"]
+    },
+    {
+    "name": "Mazda",
+    "models": ["CX-5", "CX-9", "Mazda3", "Mazda6", "MX-5 Miata", "CX-3", "CX-7", "CX-30", "Mazda5", "Mazda2", "RX-8", "Tribute"]
+    },
+    {
+    "name": "Mercedes-Benz",
+    "models": ["C-Class", "E-Class", "GLC", "GLE", "S-Class"]
+    },
+    {
+    "name": "Nissan",
+    "models": ["Altima", "Maxima", "Pathfinder", "Rogue", "Sentra", "Titan", "Versa", "Armada", "Frontier", "Kicks", "Murano", "NV Cargo"]
+    },
+    {
+    "name": "Ram",
+    "models": ["1500", "2500", "3500"]
+    },
+    {
+    "name": "Subaru",
+    "models": ["Crosstrek", "Forester", "Impreza", "Legacy", "Outback"]
+    },
+    {
+    "name": "Toyota",
+    "models": ["Camry", "Corolla", "Highlander", "Rav4", "Tacoma"]
+    },
+    {
+    "name": "Volkswagen",
+    "models": ["Atlas", "Golf", "Jetta", "Passat", "Tiguan"]
+    },
+    {
+    "name": "Volvo",
+    "models": ["S60", "S90", "V60", "XC60", "XC90"]
+    }
+    ]
+    }
