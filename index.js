@@ -2,7 +2,10 @@ const express = require("express");
 const app = express();
 const router = express.Router();
 const vehicles = require("./routes/vehicles");
+const cors = require("cors");
 const chat = require("./routes/chat");
+
+app.use(cors());
 
 console.log(vehicles);
 
